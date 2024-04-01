@@ -23,8 +23,8 @@ Join the [server](https://discord.gg/pop) or dm me on discord (x5n9) for support
 
 Open any terminal and type the following command
 ```bash
-git clone https://github.com/vividsex/discord-server-joiner
-cd discord-server-joiner-main/joiner
+git clone https://github.com/vividsex/discord-token-checker
+cd discord-token-checker-main/checker
 ```
 > [!NOTE]
 > Git is required! If not available; download this repository manually by clicking the green dropdown and selecting the Download Zip button
@@ -35,7 +35,7 @@ python3 -m pip install -r requirements.txt
 ; OR
 pip install -r requirements.txt
 ```
-After this, you can run joiner.py to and enter your server invite code to join the tokens to your server.
+After this, you can run checker.py and the checker should start, after it finishes; the output will be dumped in the ./output/ dir.
 
 
 > [!NOTE]
@@ -77,8 +77,6 @@ Please do NOT use free proxies.
 ### Tokens
 > ./data/tokens.txt
 
-> [!NOTE]
-> Your tokens should be atleast EV (email verified)
 
 Supported formats are:
 ```
