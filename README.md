@@ -85,7 +85,7 @@ token
 ```
 
 ### Screenshots
-![screenshot](https://media.discordapp.net/attachments/1222528933522837609/1224317103989981284/image.png?ex=661d0d28&is=660a9828&hm=d6d6a6f31d4a72feeb202ab27fefad58b32061df81002128f05f6e296dfc5f07&=&format=webp&quality=lossless&width=1145&height=626)
+![screenshot](https://media.discordapp.net/attachments/1222528933522837609/1224327780867510362/image.png?ex=661d1719&is=660aa219&hm=aadbbf337251bbec55473f512e699faafb1c6dc63f243aa24824f7892e8ff58d&=&format=webp&quality=lossless&width=1151&height=626)
 
 
 # <3
