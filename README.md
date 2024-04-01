@@ -29,7 +29,7 @@ cd discord-token-checker-main/checker
 > [!NOTE]
 > Git is required! If not available; download this repository manually by clicking the green dropdown and selecting the Download Zip button
 
-After cloning the repo, run the given command to install the requirements for the joiner
+After cloning the repo, run the given command to install the requirements for the checker
 ```bash
 python3 -m pip install -r requirements.txt
 ; OR
