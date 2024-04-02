@@ -35,7 +35,7 @@ python3 -m pip install -r requirements.txt
 ; OR
 pip install -r requirements.txt
 ```
-After this, you can run checker.py and the checker should start, after it finishes; the output will be dumped in the ./output/ dir.
+After this, you can run main.py with python and the checker should start, after it finishes - the output will be dumped in the ./output/ dir.
 
 
 > [!NOTE]
