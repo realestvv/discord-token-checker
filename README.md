@@ -24,7 +24,7 @@ Join the [server](https://discord.gg/pop) or dm me on discord (x5n9) for support
 Open any terminal and type the following command
 ```bash
 git clone https://github.com/vividsex/discord-token-checker
-cd discord-token-checker-main/checker
+cd discord-token-checker/checker
 ```
 > [!NOTE]
 > Git is required! If not available; download this repository manually by clicking the green dropdown and selecting the Download Zip button
